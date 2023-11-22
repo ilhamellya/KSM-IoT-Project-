@@ -1,0 +1,13 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c5a53b;
+}
+#topsong {
+  background-color: #c5a53b;
+}
+section {
+  padding-top: 5rem;
+}
